@@ -1,7 +1,7 @@
 {
   "name": "mean",
   "version": "1.0.0",
-  "description": "Extreme Tech Taning",
+  "description": "Extreme Tech Training",
   "main": "index.js",
   "scripts": {
     "test": "test"
@@ -9,7 +9,13 @@
   "author": "Kamil Ludwiczuk",
   "license": "ISC",
   "dependencies": {
+    "body-parser": "^1.17.2",
     "express": "^4.15.3",
-    "jade": "^1.11.0"
+    "jade": "^1.11.0",
+    "morgan": "^1.8.2",
+    "stylus": "^0.54.5"
+  },
+  "devDependencies": {
+    "bower": "^1.8.0"
   }
 }
