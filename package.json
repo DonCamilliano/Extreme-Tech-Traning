@@ -1,0 +1,15 @@
+{
+  "name": "mean",
+  "version": "1.0.0",
+  "description": "Extreme Tech Taning",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "author": "Kamil Ludwiczuk",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.15.3",
+    "jade": "^1.11.0"
+  }
+}
